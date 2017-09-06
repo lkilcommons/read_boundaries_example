@@ -1,0 +1,25 @@
+# DMSP SSJ Auroral Boundary Identification for CDF file /dmsp/data/dmsp/private/data/f15/ssj/2006/06/dmsp-f15_ssj_precipitating-electrons-ions_20060603_v1.1.3.cdf
+# Generated on Fri Dec 11 03:37:27 2015
+# By Univeristy of Colorado Boulder Space Environment Data Analysis Group (CU SEDA)
+# Glossary:
+# EQ1: First equator-side auroral boundary encountered by spacecraft
+# PO1: First pole-side auroral boundary encountered by spacecraft
+# PO2: Second equator-side auroral boundary encountered by spacecraft
+# EQ2: Second equatorward auroral boundary encountered by spacecraft
+# FOM: Unitless figure of merit for boundary identification, smaller is worse, Rule of Thumb: < 1.8 is questionable
+# ind: record number (row) of DMSP SSJ CDF file corresponding to boundary
+# hemisphere : -1 for southern hemisphere +1 for northern
+UTSecond Pass Start,UTSecond Pass End,hemisphere,ind EQ1,ind PO1,ind PO2,ind EQ2,FOM,mlat EQ1,mlat PO1,mlat PO2,mlat EQ2,mlt EQ1,mlt PO1,mlt PO2,mlt EQ2
+451,3490,1,1578,1834,2129,2306,3.411,68.710,81.166,79.370,70.958,19.979,18.219,11.128,10.078
+6483,9592,1,7698,7834,8213,8424,3.569,68.924,74.810,78.073,69.972,18.898,18.065,12.095,10.372
+40286,43450,-1,41638,41851,42332,42375,3.553,-66.038,-75.976,-70.788,-68.545,6.663,5.428,21.968,21.738
+49561,52631,1,50726,50779,51246,51453,2.841,71.072,73.469,78.445,69.381,18.289,18.024,10.588,9.236
+52632,55654,-1,53786,53955,54479,54551,3.448,-68.350,-77.627,-73.545,-69.646,8.155,8.403,19.360,19.470
+55655,58661,1,56781,56843,57336,57587,3.066,69.505,72.616,80.307,67.355,18.771,18.620,9.348,8.306
+58662,61754,-1,59874,59980,60491,60561,3.486,-71.854,-77.391,-73.212,-69.833,9.144,9.664,18.878,19.127
+61755,64703,1,62865,62919,63382,63569,3.703,69.686,72.671,81.126,70.457,19.551,19.502,8.771,8.364
+64704,67911,-1,65893,66017,66445,66507,3.184,-72.653,-78.958,-74.795,-71.983,9.794,10.655,18.937,19.217
+67912,70750,1,68935,68976,69458,69617,3.335,69.834,72.274,78.988,69.405,20.262,20.254,8.734,8.644
+74055,76785,1,74985,75068,75506,75580,3.602,69.702,74.793,78.732,74.276,20.597,20.552,9.138,9.062
+76786,80020,-1,77892,78023,78541,78591,3.160,-71.481,-79.246,-71.982,-69.585,8.789,8.838,20.631,20.618
+82852,85943,-1,83907,84062,84567,84672,3.116,-68.539,-77.333,-72.873,-67.881,7.889,7.202,21.842,21.499
